@@ -1,1 +1,12 @@
 /*Personal Web Page Style Sheet */
+/* File Name: style.css */
+main {
+    background-color: #832a52;
+    font-family: 'impact', sans-serif;
+}
+
+li {
+  text-decoration-color: #cb472a
+}
+h1 
+  {font-family: 'inherit';}
